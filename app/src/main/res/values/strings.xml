@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashLoginAssignment</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_user_name">Enter User Name</string>
+</resources>
